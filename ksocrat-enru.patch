@@ -1,0 +1,1777 @@
+--- usr/share/apps/ksocrat/enru.dic.orig	2003-01-25 13:00:21.000000000 +0100
++++ usr/share/apps/ksocrat/enru.dic	2003-10-04 00:54:58.000000000 +0200
+@@ -241,8 +241,7 @@
+ about    --  собираться см. также `b `
+ about   --  вновь
+ about   --     относительно
+-about    h  --     около
+-about ` ` --     около
++about  --     около
+ about as complete as -- также как и
+ about the same length of time -- приблизительно в тот-же период
+ about then -- примерно в это время
+@@ -585,7 +584,7 @@
+ accordant -- в соответствии
+ accordantly --    соответственно
+ according --    в соответствии с
+-according `to`  --  в зависимости от того см. также   см. также 
++according to -- в зависимости от того
+ according to --    согласно в зависимости от того
+ accordingly --    соответственно
+ accordion -- аккордеон
+@@ -1618,13 +1617,13 @@
+ agreeably to --    согласно
+ agreed --    согласовывать б)соглашаться см. также agree
+ agreement --   m  конт)докм)соглашение грам)согласование
+-agreement    `provision` --   см. также  ` условие`
+-agreement  `on` -- договор см. также  `    о`
++agreement provision --   см. также `условие`
++agreement on -- договор см. также `о`
+ agreement is entered into --  соглашение введено в силу
+ agreement on --  конт)договор    о
+ agreements -- конт)соглашение см. также agreement
+ agrees -- соглашаться см. также agree
+-agrees  , `that` -- fне возражает см. также  `sчто`
++agrees that -- не возражает см. также  `что`
+ agressive -- агрессивный
+ agribusiness -- агробизнес
+ agribusinesses -- агробизнес
+@@ -2041,7 +2040,7 @@
+ alkyd -- алкид
+ alkyl -- алкил
+ all --    все весь полностью
+-all  `of` --  полностью
++all of --  полностью
+ all alone -- один
+ all along -- все время
+ all around -- полностью
+@@ -2689,8 +2688,8 @@
+ ancients -- древний
+ ancillary -- вспомогательный
+ and -- и
+-and `on`, --   см. также ` так далее`
+-and `second`, --   см. также ` во-вторых`
++and on -- см. также `так далее`
++and second -- см. также `во-вторых`
+ and after that -- и вслед за тем
+ and even -- и даже
+ and no mistake -- несомненно
+@@ -3445,7 +3444,7 @@
+ applicant -- претендент кандидат заявитель
+ applicate -- соответствующий
+ application -- приложение прикладной
+-application `for` --  заявка см. также `    на`
++application for -- заявка см. также `на`
+ application area --  прикладная область
+ application builder --  разработчик - прикладник
+ application dependent --  зависящий от применения
+@@ -3473,11 +3472,11 @@
+ apply with -- использовать
+ applying -- прилагать применение примененный см. также apply
+ appoint --   а   назначать
+-appoint        h  w `as` --   см. также  `  p  в качестве`
++appoint as --  см. также `в качестве`
+ appointee -- назначенный
+ appointive --    занимаемый по назначению
+ appointment --   а   назначение
+-appointment        h  w `as` --   см. также  `  p  в качестве`
++appointment as --  см. также  `в качестве`
+ appologetically -- извиняющимся тоном
+ apportion -- распределять
+ apportionate -- распределенный
+@@ -3787,7 +3786,7 @@
+ aries -- овен
+ aright -- правильно
+ arise -- возникать
+-arise     `from` --   см. также  `    из`
++arise from -- см. также `из`
+ arise from --  возникать    из
+ arise to -- справляться
+ arisen -- возникать см. также arise
+@@ -3914,7 +3913,7 @@
+ arrival -- прибытие поступление
+ arrival rate --  частота поступления
+ arrive --      прибывать
+-arrive `at`  --  приходить см. также `    к`
++arrive at -- приходить см. также `к`
+ arrived --  e прибывать см. также arrive
+ arrivederci -- аривидерчи
+ arriver -- прибывший
+@@ -4003,13 +4002,13 @@
+ aryan -- ариец арийский
+ as --икак как так как поскольку  )по мере того какiстолькоjсколько чемa.  такой же
+ as   --   см. также 
+-as `early``as`h --  еще в см. также   см. также   см. также 
+-as `far``as`  --     до см. также   см. также   см. также 
+-as `is`  см. также "() --)  --  как см. также ` есть`
+-as `it``is` j, --)  -- как см. также ` есть`  см. также 
+-as `required` --  если см. также ` необходимо` см. также e
+-as `to`       --     что касается см. также   см. также 
+-as `usual`  --:    --   см. также  
++as early as --  еще в
++as far as -- до
++as is -- как см. также `есть`
++as it is -- как см. также `есть`
++as required -- если см. также `необходимо`
++as to -- что касается
++as usual --  см. также  
+ as a consequence of --    в результате
+ as a matter of convenience -- для удобства
+ as a matter of course -- нечто само собой разумеющееся
+@@ -4178,16 +4177,16 @@
+ asinine -- дурацкий
+ asininely -- глупо
+ asininity -- глупость
+-ask --  jbo а   спрашивать  )просить
+-ask       `question` --  задавать
++ask -- спрашивать, просить
++ask question -- задавать
+ ask about --  запрашивать    о
+ ask after --  спрашивать    о
+ ask for --  oj требовать
+ ask out -- удалять
+ askable -- запрашиваемый
+ askance -- косо
+-asked --  s   просить см. также ask
+-asked      --  спрашивать
++asked -- просить см. также ask
++asked -- спрашивать
+ asker -- проситель
+ askew -- косо
+ asking --  b  спрашивать запрашиваемый см. также ask
+@@ -4304,7 +4303,7 @@
+ assiduously -- усердно
+ assiduousness -- усердие
+ assign --  а   назначать  )присваивать передавать правопреемник
+-assign      `agreement` -- переуступать
++assign agreement -- переуступать
+ assign a task --  ставить задачу
+ assignable --  b назначаемый
+ assignation -- назначение
+@@ -4471,14 +4470,13 @@
+ asymtote -- асимптота
+ asynchronous -- асинхронный
+ asyndetic -- бессоюзный
+-at --  pb  з   в ат
+-at        w `address` --     по
+-at      `dollars` --     по
+-at     `price` --     по
+-at       `to` -- от см. также  `    до`
+-at          г:  --  --     в
+-at     `o'clock` --     в
+-at `all`   j,  --  --  совсем см. также   см. также 
++at --  pb з в ат
++at address -- по
++at dollars -- по
++at price -- по
++at to -- от см. также `до`
++at o'clock -- в
++at all -- совсем
+ at a blow -- одним ударом
+ at a draught -- залпом
+ at a factory -- на заводе
+@@ -5193,8 +5191,8 @@
+ bachelor's degree --  степень бакалавра
+ bacillius -- бацилла
+ bacillus -- бацилла
+-back --      . возвращать .  обратная сторона  )спина  .обратный обратно в ответ
+-back      w `up` --  копировать см. также    см. также 
++back -- возвращать .  обратная сторона  )спина  .обратный обратно в ответ
++back up --  копировать
+ back along the --     позади 
+ back and forth -- взад и вперед
+ back door --  запасной выход
+@@ -5439,7 +5437,7 @@
+ banistor -- перила
+ banistors -- перила
+ banjo -- банджо авто)картер
+-banjo `union` --  банджообразное см. также ` соединение`
++banjo union --  банджообразное см. также ` соединение`
+ bank -- экон)банк банковский
+ bank account --  экон)счет в банке
+ bank by phone --  банковскаяnсделка по телефону
+@@ -5682,8 +5680,8 @@
+ bazaar -- базар
+ bazooka -- гранатомет
+ be --     быть нужноfбудь
+-be `different``from` --  отличаться см. также   см. также 
+-be `on` --  находиться см. также  см. также w
++be different from --  отличаться
++be on --  находиться
+ be a function of --  зависеть    от
+ be a matter of common knowledge --  быть общеизвестный
+ be a matter of common observation --  быть общеизвестный
+@@ -5920,7 +5918,7 @@
+ bean -- фасоль фасолевый
+ beanpole -- каланча
+ bear -- нести перевозить выдерживать медведь
+-bear       w `in`    `mind` --  иметь см. также  ` в` см. также  ` виду`
++bear in mind --  иметь см. также `в` см. также `виду`
+ bear a hand -- содействовать
+ bear a relation --    а   иметь отношение
+ bear a relationship --    а   иметь отношение
+@@ -5983,8 +5981,8 @@
+ beck and call -- на побегушках
+ beckon -- манить
+ becloud -- заволакивать
+-become --    x  :  становиться
+-become      `excuse` --   см. также  ` оправдание`
++become -- становиться
++become excuse -- см. также `оправдание`
+ become acquainted -- знакомиться
+ become null and void --  становиться недействительный
+ become of -- случаться
+@@ -6307,7 +6305,7 @@
+ bewitched -- околдовывать зачарованный см. также bewitch
+ bewitching -- околдовывать очаровательный см. также bewitch
+ beyond --    за
+-beyond    - `terms` --     позже см. также  ` срок`
++beyond terms -- позже см. также  `срок`
+ beyond all doubt -- вне всякого сомнения
+ beyond belief -- невероятно
+ beyond comparison -- вне сравнения
+@@ -6728,7 +6726,7 @@
+ blotting-paper --    промокательная бумага
+ blouse -- блуза
+ blow -- дуть удар
+-blow       w    `off` -- убирать см. также  `    с`
++blow off -- убирать см. также `с`
+ blow away -- сдувать
+ blow out -- задувать тушить выдув
+ blow up -- взрывать надувать
+@@ -6975,12 +6973,12 @@
+ botany -- ботаника
+ botch --    небрежная работа
+ both -- оба
+-both     ,  `and` --  как см. также  ,` так и`
++both and -- как см. также `так и`
+ both in --    в
+ both of -- оба
+ both of them -- оба
+-both of which --    , который
+-both          `and` --  как см. также  ` так и`
++both of which -- который
++both and --  как см. также `так и`
+ bother -- мешать беспокойство
+ bothersome -- надоедливый
+ bothway -- двунаправленный
+@@ -7282,7 +7280,7 @@
+ brimming -- заполнять см. также brim
+ brine -- рассол
+ bring --    а   приносить  )переносить приводить
+-bring        w `down` -- снижать см. также    см. также 
++bring down -- снижать
+ bring about --  приводить    к
+ bring forth -- выдвигать
+ bring forward -- выдвигать
+@@ -7497,7 +7495,7 @@
+ bugler -- горнист
+ buick --     бьюик
+ build -- строить инф)формировать
+-build `in` --  встраивать
++build in --  встраивать
+ build up -- строить
+ build-time -- конструктивный
+ build-time binding --  конструктивная привязка
+@@ -7709,8 +7707,8 @@
+ buzzard -- сарыч
+ buzzer -- зуммер
+ by --        )   кs, что
+-by `water`  --   --  водным путем см. также   см. также 
+-by `whatever`  --  тем, что см. также   см. также 
++by water -- водным путем
++by whatever --  тем, что
+ by a happy chance -- по счастливой случайности
+ by a narrow margin -- с трудом
+ by accident -- случайно
+@@ -7915,9 +7913,9 @@
+ calisthentics -- гимнастика
+ calk -- конопатить
+ call --   г   называть звать комм)вызывать встр)созывать  )призывать вызов  )призыв
+-call     `attention` --  привлекать
+-call    `in` --  приглашать см. также    см. также 
+-call  { }()   --  звонить
++call attention -- привлекать
++call in -- приглашать
++call -- звонить
+ call accepted -- "вызов принят"
+ call barred -- вызов заблокирован
+ call bell --  сигнальный звонок
+@@ -8518,7 +8516,7 @@
+ ccitt -- мкктт
+ cctv -- замкн.сист. тв
+ cease --  b прекращать
+-cease  d  `from` --  отказываться    от
++cease from --  отказываться    от
+ cease fire --    прекращать огонь    прекращение огня
+ cease to --  переставатьb
+ cease-fire --    прекращение огня
+@@ -8629,9 +8627,9 @@
+ certificate of quality --  сертификат о качестве
+ certification -- удостоверение
+ certified -- удостоверять заверенный см. также certify
+-certified      w `engineer` --  дипломированный
+-certified      w `personnel` --  дипломированный
+-certified      w `specialist` --  дипломированный
++certified engineer --  дипломированный
++certified personnel --  дипломированный
++certified specialist --  дипломированный
+ certified letter --  гарантийный письмо
+ certified public accountants -- аудитор
+ certifier -- распорядитель-координатор
+@@ -8707,7 +8705,7 @@
+ chandelier -- люстра
+ chandler -- оптовик
+ change --        изменять  )отличаться  изменение  )отличие
+-change        `money` -- менять обменять
++change money -- менять, обменять
+ change channels --  менятьnканал
+ change clothes -- переодеться
+ change for -- заменять .  изменение    для
+@@ -9244,7 +9242,7 @@
+ clack -- цокать цокот
+ clad -- одевать одетый см. также clothe
+ claim --   j требовать претензия иск
+-claim      `advantages` --  заявлять
++claim advantages --  заявлять
+ claim attention --  заслуживать внимания
+ claim check -- квитанция
+ claim damages --     требовать возмещения убытков
+@@ -10054,7 +10052,7 @@
+ commissioning -- поручать предоставлять комиссионные пуск внедренческий см. также commission
+ commissioning the project --  сдача объекта
+ commit -- совершать
+-commit      `statutory` -- совершать
++commit statutory -- совершать
+ commit a blunder --  допустить промах
+ commit catastrophe --  катастрофический исход
+ commited -- совершать см. также commit
+@@ -10334,7 +10332,7 @@
+ compute -- вычислять
+ computed -- вычислять см. также compute
+ computer --     компьютер компьютерный
+-computer `letter` --   см. также ` письмо`
++computer letter --   см. также `письмо`
+ computer abuse --  злоумышленноеnдействие на компьютере
+ computer aided design --  автоматизированное проектирование
+ computer aided engineering --  машинное моделирование
+@@ -10734,7 +10732,7 @@
+ consecration -- посвящение
+ consecution -- последовательность
+ consecutive -- последовательный
+-consecutive `month` --  последующий
++consecutive month --  последующий
+ consecutively -- последовательно
+ consensus -- согласованность
+ consent -- соглашаться согласие
+@@ -10871,7 +10869,7 @@
+ consumption -- потребление
+ consumptive -- истощающий
+ contact --    обращаться    к  контакт .контактный
+-contact       w `by` --     связываться    с см. также  `    по`
++contact by -- связываться с см. также  `по`
+ contact fault --  нарушение контакта
+ contact lens --  контактныеnлинза
+ contact lenses --  контактныеnлинза
+@@ -11289,7 +11287,7 @@
+ corpuscular -- атомный
+ corral -- загонять корраль
+ correct --     корректировать правильныйdправильно правильно
+-correct `statement` --   см. также ` ведомость`
++correct statement -- см. также `ведомость`
+ correctable -- исправимый
+ corrected -- корректировать исправленный см. также correct
+ correcting -- корректировать коррекция корректирующий см. также correct
+@@ -11545,7 +11543,7 @@
+ covenant --    соглашаться договор
+ covenanted --    скрепленный договором
+ cover -- покрывать  )защищать покрытие кожух
+-cover      `users` --  обеспечивать
++cover users --  обеспечивать
+ cover letter --  сопроводительный письмо
+ cover sheet --  титульный лист
+ coverage -- охват страх)покрытие
+@@ -13099,8 +13097,8 @@
+ delivered --    поставлять докм)доставлять см. также deliver
+ deliverer -- избавитель
+ delivery -- поставка
+-delivery    `responsibility` --  передача
+-delivery c   f --  поставка на условиях каф
++delivery responsibility -- передача
++delivery --  поставка на условиях каф
+ delivery cif --  поставка на условиях сиф
+ delivery date --  дата поступления
+ delivery room --  родильное отделение
+@@ -13126,7 +13124,7 @@
+ demagoguery -- демагогия
+ demagogy -- демагогия
+ demand --  j b m   требовать требование экон)спрос
+-demand    `for` --  спрос см. также  `    на`
++demand for -- спрос см. также `на`
+ demand for --  спрос    на
+ demanded of --  предъявлять    к
+ demanding -- требовать требовательный см. также demand
+@@ -13896,7 +13894,7 @@
+ dire -- страшный
+ dire necessity --  жестокая необходимость
+ direct --  -t a направлять прямой
+-direct     `attention` --  привлекать
++direct attention -- привлекать
+ direct adaptation --  непосредственная адаптация
+ direct current --  постоянный ток
+ direct execution --  немедленное выполнение
+@@ -14476,7 +14474,7 @@
+ dlimly lit --  слабо освещенный
+ dmv -- =деп.регистр.автомобилей
+ do --вделать
+-do `it``yourself`  --  кустарный см. также   см. также 
++do it yourself -- кустарный
+ do a bad job --  плохо делать
+ do a good job --  хорошо делать
+ do a thing -- заботиться
+@@ -14823,7 +14821,7 @@
+ draught -- сквозняк
+ draughtsman -- чертежник
+ draw --   д   делать граф)рисовать экон)получать  )вытаскивать
+-draw     `attention` --  привлекать
++draw attention -- привлекать
+ draw a check --  выписывать чек
+ draw a cheque --  выписывать чек
+ draw a comparison between --  проводить сравнение    между
+@@ -14920,8 +14918,8 @@
+ drip --    капать
+ dripping -- капать капающий см. также drip
+ drive --   ж   управлять запускать  )загонять и)ездить проехать проезд инф)накопитель
+-drive    `car` --  водить
+-drive    `truck` --  водить
++drive car --  водить
++drive truck --  водить
+ drive home -- убеждать
+ drive letters -- nобозначение накопителей
+ drive light --  индикатор  накопителя
+@@ -14931,7 +14929,7 @@
+ drivegear -- привод
+ drivel --    нести чушь
+ driven -- управлять и) i ехать управляемый см. также drive
+-driven   , `by` --   i вести
++driven by -- i вести
+ driven by greed --  подвергать алчности
+ driven shaft --  приводной вал
+ driven wheel --  ведомое колесо
+@@ -15233,7 +15231,7 @@
+ ea --    кажд.
+ ea. --    кажд.
+ each --    каждый каждый
+-each `time`     --  всякий раз, когда см. также   см. также 
++each time -- всякий раз, когда
+ each and all --    все
+ each and every --    все
+ each of --  каждый    из
+@@ -15401,7 +15399,7 @@
+ eden -- эдем
+ edgar --    эдгар
+ edge -- изменять край ребро краевой
+-edge       `battle` --  перевес
++edge battle -- перевес
+ edge up to --  изменяться незначительно    до
+ edges-in -- от границ-внутрь
+ edgewise -- бочком
+@@ -15520,8 +15518,8 @@
+ either up or down -- как вверх, так и вниз
+ either within or without --    как внутри, так и за пределами
+ either   or -- cили  или
+-either    , `or` -- cили
+-either   ,  `or` -- cили
++either or` -- cили
++either or -- cили
+ either-way -- полудуплексный
+ ejaculate -- извергать
+ ejaculation -- семяизвержение
+@@ -15877,8 +15875,8 @@
+ encompassed -- охватывать охваченный см. также encompass
+ encore -- бис
+ encounter -- встречать
+-encounter      `difficulty` --     сталкиваться    с
+-encounter      `problem` --     сталкиваться    с
++encounter difficulty -- сталкиваться    с
++encounter problem -- сталкиваться    с
+ encourage --   b способствовать б)содействовать поощрительный
+ encouraged by --   i поддерживать    
+ encouragement -- одобрение
+@@ -15931,7 +15929,7 @@
+ endoenzyme -- эндоэнзим
+ endogeneous -- внутренний
+ endorse -- экон)индоссировать подписывать
+-endorse    `by` --  утверждать
++endorse by -- утверждать
+ endorse the results --  утверждатьnрезультат
+ endorsed -- экон)индоссировать подписывать поддерживать индоссированный см. также endorse
+ endorsed by --  утверждать    
+@@ -16002,7 +16000,7 @@
+ engineering time --  время технического обслуживания
+ england --       англия
+ english --         английский английскийaангло
+-english    `language` --     английский
++english language -- английский
+ english channel --  британский канал
+ english horn --  английский рожок
+ english letters --  английскийnбуква
+@@ -16089,7 +16087,7 @@
+ entangled -- запутывать запутанный см. также entangle
+ entanglement -- переплетение
+ enter --     вводить и)входить ввод вход
+-enter   --  входить см. также `    в`
++enter   --  входить см. также `в`
+ enter into details --  вдаваться в подробности
+ enter into obligations --  принимать на себя обязательства
+ enter the party --  вступать в партию
+@@ -16748,7 +16746,7 @@
+ exhaustive -- полный
+ exhaustiveness -- полнота
+ exhibit -- показывать приложение экспонат
+-exhibit `"` --  приложение
++exhibit -- приложение
+ exhibiters -- экспонент
+ exhibition -- выставка выставочный
+ exhibition arrangements --  выставочныеnмероприятие
+@@ -16811,7 +16809,7 @@
+ expatriated -- экспатриировать экспатриированный см. также expatriate
+ expatriation -- экспатриация
+ expect --   o  ожидать
+-expect      w `from` --   см. также  `    от`
++expect from -- см. также `от`
+ expectancy -- ожидание
+ expectant -- ожидающий
+ expectant mother --  беременная женщина
+@@ -16920,7 +16918,7 @@
+ exposure time --  время экспозиции
+ expound -- разъяснять
+ express -- выражать экспресс срочный специальный
+-express  ,   `implied` --  явный
++express implied --  явный
+ express agitation --  выражать тревогу
+ express condition --  особыйnусловие
+ express deep concern --  проявлять большую заботу
+@@ -17352,7 +17350,7 @@
+ fantasy -- фантазия
+ far --    значительно дальний далеко
+ far  d   --  значительно см. также . см. также w
+-far `from`       --  далеко
++far from -- далеко
+ far and away -- значительно
+ far and by -- в общем
+ far and near -- повсюду
+@@ -17583,7 +17581,7 @@
+ fedex -- федэкс
+ fedorovka -- федоровка
+ fee -- гонорар взнос
+-fee        w `for` --   см. также  `    за`
++fee for -- см. также `за`
+ feeble -- хилый
+ feeble-minded -- слабоумный
+ feeble-mindedness -- слабоумие
+@@ -17826,7 +17824,7 @@
+ fig leaf --  фиговый листок
+ fig. --    рис.
+ fight --       бороться    с  .борьба
+-fight         `for` --     бороться    с см. также  `    за`
++fight for -- бороться с см. также `за`
+ fight a duel --  драться на дуэли
+ fight back --  оказывать сопротивление
+ fight crime --  бороться с преступностью
+@@ -17844,7 +17842,7 @@
+ figurative -- переносный
+ figuratively -- образно говоря
+ figure -- считать фигура инф)цифра
+-figure    `book` --  рисунок
++figure book -- рисунок
+ figure   --  рисунок
+ figure of merit -- критерий
+ figure of speech --  оборот речи
+@@ -17879,13 +17877,13 @@
+ filing -- регистрировать занесение
+ filings -- опилка
+ fill --  d в  заполнять наполнитель
+-fill      `tooth` --  пломбировать
++fill tooth -- пломбировать
+ fill a position --  занимать пост
+ fill in -- заполнять
+ fill in the blank --  заполннять бланк
+ fill up -- заполнять
+ fill-in-the-blank --   nбланк для заполнения
+-filled      `tooth` --  пломбировать
++filled tooth -- пломбировать
+ filler -- наполнитель
+ fillet -- скругление
+ filling --  см. также fill
+@@ -18050,7 +18048,7 @@
+ firmness -- твердость
+ firmware -- микропрограмма
+ first --     сначала первый первый
+-first ,   `second` --  во-первых
++first second --  во-первых
+ first aid --  первая помощь
+ first and foremost -- прежде всего
+ first and last --    в общем и целом .  первый и последний
+@@ -18141,7 +18139,7 @@
+ fistfight --    кулачный бой
+ fisticuffs --    кулачный бой
+ fit -- устанавливать приступ годный
+-fit        `requirements` --  соответствовать
++fit requirements --  соответствовать
+ fit around --  помещаться    за
+ fit for --  годный    для
+ fit for anything --  способный на все
+@@ -18619,16 +18617,16 @@
+ fop -- франт
+ foppery -- щегольство
+ foppish -- франтоватый
+-for --  -b  г     для за  )в течение  )    чтобыb
+-for  мес  --     на
+-for    `dollars` --     на
+-for      `loss` --     за см. также  ` убыток`
+-for      `period` --     на
+-for       `reason` --     по
+-for     `thank` -- p   за
+-for        w `pay` -- p   за
+-for ` ` -- на
+-for `good`      --  навсегда см. также   см. также 
++for -- для за) в течение) чтобыb
++for -- на
++for dollars -- на
++for loss -- за см. также `убыток`
++for period -- на
++for reason -- по
++for thank -- за
++for pay -- за
++for -- на
++for good -- навсегда
+ for a change -- для разнообразия
+ for a fee -- за отдельную плату
+ for a long time -- долгое время
+@@ -19201,14 +19199,14 @@
+ frogman -- аквалангист
+ frogs legs --  лягушачьяnлапка
+ frolic -- резвиться
+-from --  -b  д   из от  )   с  )   от чтобыb
+-from     `cause` --     по
+-from     `period` --     из
+-from     `year` --     из
+-from        w `viewpoint` --     с
+-from        w `view-point` --     с
+-from      `to` -- от см. также  `    до`
+-from     `to` -- от см. также .`    до`
++from --  из от  )   с  )   от чтобыb
++from cause -- по
++from period -- из
++from year -- из
++from viewpoint -- с
++from view-point -- с
++from to -- от см. также `до`
++from to -- от см. также `до`
+ from a number of --    из множества
+ from abroad -- из-за границы
+ from afar -- издалека
+@@ -19610,7 +19608,7 @@
+ garter --    орден подвязки
+ gary --      гари
+ gas -- газ газовый
+-gas    `car` -- бензин
++gas car -- бензин
+ gas burner --  газовый рожок
+ gas carriers -- газовоз
+ gas chamber --  газовая камера
+@@ -19848,7 +19846,7 @@
+ gesticulation -- жестикуляция
+ gesture -- жест
+ get -- получать а)и)становиться х)уговаривать
+-get      w   `ready` -- подготавливать см. также    см. также 
++get ready -- подготавливать
+ get a cursory view --  получить поверхностное представление
+ get a line --    б   получать информацию
+ get a new angle --  усваивать новую точку зрения
+@@ -19957,7 +19955,7 @@
+ giddy -- головокружительный
+ giddyap -- гей
+ gift -- дар (подарок) артс)талант
+-gift `to`       `birthday` --   см. также `    к`
++gift to birthday -- см. также `к`
+ gift shop --  магазин подарков
+ gifted -- одаренный
+ giftware -- подарок
+@@ -19999,8 +19997,8 @@
+ gist -- суть
+ gist of the matter --  суть дела
+ give --  d d давать
+-give      `regards` --  передавать
+-give      `respects` --  передавать
++give regards -- передавать
++give respects -- передавать
+ give a chance --  предоставлять возможность
+ give a clue --  наводить на след
+ give a flash denial --  категорически отказываться
+@@ -21349,7 +21347,7 @@
+ he --     онrу негоmему
+ he-man --    настоящий мужчина
+ head -- голова инф)мех)головка союз)глава главный
+-head    `department` --  глава
++head department -- глава
+ head cold -- насморк
+ head of the delegation --  глава делегации
+ head office --  главный контора
+@@ -21398,7 +21396,7 @@
+ healing plant --  растение с лечебными свойствами
+ healing plants -- nрастение с лечебными свойствами
+ health -- здоровье
+-health    `poor` --   см. также  ` слабый`
++health poor -- см. также `слабый`
+ health care -- здравоохранение
+ health situation --  состояние здравоохранения
+ healthful -- целебный
+@@ -21876,9 +21874,9 @@
+ hoi polloi -- простонародье
+ hoist -- поднимать подъем подъемник
+ hold --  -  держать встр)проводить и)воздерживаться
+-hold    `at` --  проводить
+-hold    `corporation` -- проводить
+-hold    `information` -- хранить
++hold at -- проводить
++hold corporation -- проводить
++hold information -- хранить
+ hold a degree --  иметь ученую степень
+ hold all the cards --  иметьnпреимущество
+ hold an inspection -- инспектировать
+@@ -22442,7 +22440,7 @@
+ ibuprofen -- ибупрофен
+ icand -- множимое
+ icc -- икк
+-icc `term` --   см. также ` правило`
++icc term -- см. также `правило`
+ ice -- замораживать лед ледяной
+ ice age --  ледниковый период
+ ice bag --  пузырь со льдом
+@@ -22497,7 +22495,7 @@
+ identifier -- идентификатор
+ identifing -- идентифицировать определять определяющий см. также identify
+ identify -- идентифицировать опознавать определять определение
+-identify `at` --  указывать
++identify at -- указывать
+ identify to --  определять    
+ identifying -- опознавать определять установление определяющий см. также identify
+ identity -- тождество
+@@ -22528,9 +22526,9 @@
+ ie -- т.е.
+ ier -- множитель
+ if --      если    при
+-if `any` ,)} --  --  если имеется см. также   см. также 
+-if `applicable`  --, )  --  если необходимо см. также   см. также 
+-if `present`  --{}()  --  если см. также ` имеется`
++if any -- если имеется
++if applicable -- если необходимо
++if present -- если см. также `имеется`
+ if and only if -- тогда и только тогда
+ if any , -- если имеется в наличии,
+ if anything -- если вообще
+@@ -22842,20 +22840,20 @@
+ impute -- приписывать
+ imputed -- приписывать вмененный см. также impute
+ in --  b  ж     в  )   в течениеb
+-in     `respect` --   см. также  ` отношение`
+-in     `respects` --   см. также  `nотношение`
+-in    `favor` --     в
+-in    `favour` --     в
+-in        `months` --     за
+-in `a``row` , --  --  подряд см. также  ` ` см. также 
+-in `confidence`   p --  --  по секрету см. также   см. также 
+-in `full`  --  --  полностью см. также   см. также 
+-in `just`      --  точно см. также `    через`
+-in `late` мес  --     в конце см. также   см. также 
+-in `oversize`   :  --  --   см. также `    сверх нормы`
+-in `person` ,  --  --  лично см. также   см. также 
+-in `total`  b  --,   --  в итоге см. также   см. также 
+-in `writing`  p, :  --  --  в письменной форме см. также   см. также 
++in respect -- см. также ` отношение`
++in respects -- см. также `nотношение`
++in favor -- в
++in favour -- в
++in months -- за
++in a row -- подряд
++in confidence -- по секрету
++in full -- полностью
++in just -- точно см. также `через`
++in late -- в конце
++in oversize -- см. также `сверх нормы`
++in person -- лично
++in total -- в итоге
++in writing -- в письменной форме
+ in a broad manner -- вообще
+ in a day or two -- на днях
+ in a draw -- вничью
+@@ -23391,7 +23389,7 @@
+ indelible -- несмываемый
+ indemnification -- возмещение компенсация
+ indemnify -- возмещать страховать
+-indemnify      w    `against` -- страховать см. также  `    от`
++indemnify against -- страховать см. также `от`
+ indemnity -- возмещение
+ indent -- отступ
+ indentation -- отступ
+@@ -24316,7 +24314,7 @@
+ irs -- налог.инсп.
+ irs agent --  налоговый инспектор
+ is --    быть должен  x являться г)находитьсяxестьfимеется ли    у см. также be
+-is     `complete` --   см. также  `    завершенный`
++is complete -- см. также `завершенный`
+ is it --   это
+ is that , -- в том, что
+ isinglass -- слюда рыбий клей
+@@ -24675,7 +24673,7 @@
+ juror -- присяжный
+ jury --    жюри присяжные
+ just --  eo просто точный просто г)только что
+-just `come` --  только что
++just come -- только что
+ just as -- подобно тому, как
+ just below the --    чуть ниже
+ just cause --  полное основание
+@@ -24737,9 +24735,9 @@
+ keen sight --  острое зрение
+ keen smell --  острое обоняние
+ keenness -- страсть
+-keep --  ig  :      держать а)сохранять г)продолжать встр)проводить
+-keep         --     :  сохранять хранение
+-keep        `informed` --   см. также  `wв курсе`
++keep -- держать а)сохранять г)продолжать встр)проводить
++keep -- сохранять хранение
++keep informed --  см. также `в курсе`
+ keep a check on --  следить    за
+ keep a diary --  вести дневник
+ keep a record --  вести запись
+@@ -24801,7 +24799,7 @@
+ kettle -- чайник
+ kettledrum -- литавра
+ key -- ключ инф)клавиша ключевой
+-key     `down` --   см. также   ` нажатый`
++key down --  см. также `нажатый`
+ key contributors --  основнойnучастник
+ key currency --  ключевая валюта
+ key figures --  ключевойnфигура
+@@ -25244,7 +25242,7 @@
+ lateness -- задержка
+ latent -- латентный
+ later --   c позже последующий
+-later       `document` --  ниже
++later document -- ниже
+ later on -- позже
+ later this year -- позже в этом году
+ lateral -- боковой
+@@ -25290,7 +25288,7 @@
+ lavender -- лаванда лавандовый
+ lavish -- расточать щедрый
+ law --     закон
+-law `stating` --   см. также ` утверждать`
++law stating -- см. также `утверждать`
+ law of experience --  закон накопления опыта
+ law of probability --  теория вероятностей
+ law office --  юридический контора
+@@ -25410,7 +25408,7 @@
+ least privileges --  наименьший привилегия
+ leather -- кожа кожанный
+ leave -- оставлять и)оставаться уходить
+-leave      w  `free` -- освобождать см. также    см. также 
++leave free -- освобождать
+ leave aside --  оставлять без внимания
+ leave behind -- опережать
+ leave homeless -- оставаться без крова
+@@ -25450,7 +25448,7 @@
+ leeward -- подветренный
+ leeway --    свобода действий
+ left --   e   оставлять и)оставаться уходить левый влево см. также leave
+-left `hand`  --  лево см. также ` сторонний`
++left hand -- лево см. также `сторонний`
+ left and right --    влево и вправо .  левый и правый
+ left justified --  выравненный слева
+ left lock -- влево
+@@ -25543,7 +25543,7 @@
+ lessor -- арендодатель
+ lest -- если
+ let --  djb-b позволятьfдавайте
+-let       й-= h   -- fпусть
++let -- пусть
+ let alone --    , не говоря уже о
+ let down -- опускать
+ let down the bars -- eотменять ограничения
+@@ -25566,9 +25564,9 @@
+ lets -- позволять см. также let
+ lett -- латыш
+ letter -- докм)письмо инф)знак)буква
+-letter    `write` -- письмо см. также  `писать`
+-letter  ({   -- буква
+-letter `of`  --  письмо см. также `     от`
++letter write -- письмо см. также `писать`
++letter -- буква
++letter of -- письмо см. также `от`
+ letter carrier -- почтальон
+ letter chain --  последовательность букв
+ letter from --  письмо    от
+@@ -25618,7 +25616,7 @@
+ lexicon -- лексикон
+ liabilities --   г   m  обязательство пассив
+ liability --   г   ответственность
+-liability   d        w ,  `for` --   см. также  `    за`
++liability for -- см. также `за`
+ liability to error --  подверженность ошибкам
+ liable --   г   ответственный
+ liable for --  ответственный    за
+@@ -25718,7 +25716,7 @@
+ ligament -- связка
+ ligature -- лигатура
+ light --      зажигать свет светлый легкий световой
+-light     `out` --   см. также ` выключать` см. также   см. также   см. также 
++light out -- см. также `выключать`
+ light alarm --  световая сигнализация
+ light bulb -- лампочка
+ light cure --  упрочняемый светом
+@@ -25812,7 +25810,7 @@
+ linchpin -- чека
+ lincoln --     линкольн
+ line -- линия инф)строка
+-line `of`    `products` -- ассортимент
++line of products -- ассортимент
+ line at a time -- построчно
+ line by line -- построчно
+ line of business --  сторона бизнеса
+@@ -26606,18 +26604,18 @@
+ major improvements --  основнойnусовершенствование
+ majordomo -- мажордом
+ majority --    большинство
+-make --  y-bd  :    делать б)   заставлять
+-make     `bed` --  застилать
+-make      `agreement` -- заключать
+-make      `claim` -- подавать см. также  ` иск`
+-make      `decision` --  принимать
+-make      `determination` --  принимать см. также  ` решение`
+-make      `effort` -- прилагать см. также  `nусилие`
+-make      `efforts` -- прилагать см. также  `nусилие`
+-make      `part` --   -  составлять
+-make      `representations` --   см. также  `nзаявление`
+-make  ,     `model` --  марка
+-make `up`    `mind` -- решать см. также   см. также    см. также 
++make -- делать б) заставлять
++make bed -- застилать
++make agreement -- заключать
++make claim -- подавать см. также `иск`
++make decision -- принимать
++make determination -- принимать см. также `решение`
++make effort -- прилагать см. также `nусилие`
++make efforts -- прилагать см. также `nусилие`
++make part -- составлять
++make representations -- см. также `nзаявление`
++make model -- марка
++make up mind -- решать
+ make a bet --  держать пари
+ make a contribution to --  вносить вклад    в
+ make a date --  назначать свидание
+@@ -26754,7 +26752,7 @@
+ mammoth -- мамонт огромный
+ mammy -- мама
+ man --    человек
+-man    `woman` -- мужчина
++man woman -- мужчина
+ man on duty -- дежурный
+ man-handling -- обращение
+ man-hour -- человеко-час
+@@ -27266,7 +27264,7 @@
+ meek -- смиренный
+ meerschaum -- пенка пенковый
+ meet --      встречать m )соответствовать m )удовлетворять m )выполнять
+-meet     `expectations` --  оправдывать
++meet expectations -- оправдывать
+ meet a threat --  принимать соответствующие меры при возникновении угрозы
+ meet competition --  выдерживать конкуренцию
+ meet difficulties --  испытывать затруднения
+@@ -28956,7 +28954,7 @@
+ neighbourhood -- окрестность
+ neighbouring -- граничить соседний см. также neighbour
+ neither --     никакойkни
+-neither           `nor` -- kни
++neither nor -- kни
+ neither for or against -- ни за ни против
+ neither here nor there -- ни к селу ни к городу
+ neither of -- kни один    из
+@@ -29093,7 +29091,7 @@
+ newtonian --    последователь ньютона
+ newuser --    новый пользователь
+ next --    затем следующий другой
+-next `fall`  --, j   --  будущей осенью см. также   см. также 
++next fall -- будущей осенью
+ next door -- рядом
+ next door neighbor --  ближайший сосед
+ next room --    соседняя комната
+@@ -29405,7 +29403,7 @@
+ nonreproducing -- невоспроизводимый
+ nonresident -- нерезидентный
+ nonresidential --    не связанный с постоянным пребыванием
+-nonresidential    `project` --  не жилищный
++nonresidential project -- не жилищный
+ nonreusable --    однократно используемый
+ nonscheduled --    работающий вне графика
+ nonsense -- бессмыслица
+@@ -29641,7 +29639,7 @@
+ numb -- сковывать окоченевший
+ numbed -- сковвыать скованный см. также numb
+ number -- перечислять число  )номер  )количество
+-number `of`       --   см. также  см. также n
++number of -- см. также n
+ number of seconds --  время    вnсекунда
+ number of times -- раз(а)
+ number of ways --  множество направлений
+@@ -29809,7 +29807,7 @@
+ obstructionism -- обструкционизм
+ obstructionist -- обструкционист обструкционный
+ obtain --    получать
+-obtain      `order` --   см. также  ` заказ`
++obtain order -- см. также `заказ`
+ obtain admittance --  получать доступ
+ obtain approval --  получать одобрение
+ obtain exclusivity --  получать исключительное право
+@@ -29906,9 +29904,9 @@
+ odyssey -- одиссея
+ oersted -- элек)эрстед
+ oesophagus -- пищевод
+-of --  j  е   )   о  )   отsчтобыb
+-of      w `choice` --     по
+-of `order` --   см. также ` заказ`
++of --  отсчтобыb
++of choice -- по
++of order -- см. также `заказ`
+ of a sort --      тип
+ of all of --    из всех
+ of assured -- застрахованного
+@@ -30112,7 +30110,7 @@
+ omniscient -- всеведущий
+ omnivorous -- всеядный
+ on --  jb  б     на включатьpнаsчтобы
+-on `how``to` --  о том,
++on how to -- о том
+ on a holiday -- в отпуске
+ on a large scale -- в большом масштабе
+ on a par with --    наравне с
+@@ -30228,7 +30226,7 @@
+ once-through -- одноразовый
+ oncoming -- надвигающийся
+ one --     n  один этоhодин
+-one    `per` --   см. также  `    на`
++one per -- см. также `на`
+ one      --     один
+ one another -- друг другу
+ one at a time -- поочередно
+@@ -30768,9 +30766,9 @@
+ ovation -- овация
+ oven -- печь
+ over --     над  )   в течение через заканчиватьсяaпере выше
+-over        `years` --     более см. также  `nлет`
+-over         `day` --     в течение
+-over  `terms` --   см. также  `nтермин`
++over years -- более см. также `nлет`
++over day -- в течение
++over terms -- см. также `nтермин`
+ over      --     свыше
+ over and above -- к тому же
+ over and over -- много раз
+@@ -31297,7 +31295,7 @@
+ panegyrist -- панегирист
+ panegyrize -- восхвалять
+ panel -- обшивать панель панельный
+-panel `of`     `members` --  коллегия
++panel of members -- коллегия
+ panel of judges --  судейская коллегия
+ panel painting --  настенная живопись
+ panel-mounted -- на панели
+@@ -31636,7 +31634,7 @@
+ pasha -- паша
+ pasquinade -- пасквиль
+ pass -- передавать и)проходить проход
+-pass      `course` --  проходить
++pass course -- проходить
+ pass ahead -- опережать
+ pass an examination --  сдавать экзамен
+ pass away -- проходить
+@@ -32303,7 +32301,7 @@
+ perceived -- воспринимать воспринятый см. также perceive
+ perceiving -- воспринимать воспринимающий см. также perceive
+ percent --       процент процентный
+-percent `premium` --   см. также `надбавка`
++percent premium -- см. также `надбавка`
+ percent stake --  процентный доля
+ percentage -- процент
+ percentage error --  относительная ошибка
+@@ -32415,7 +32413,7 @@
+ perineal -- промежностный
+ perineum -- промежность
+ period --     период точка
+-period    `line` --  точка см. также  ` строка`
++period line -- точка см. также `строка`
+ period of construction -- nсрок строительства
+ period that --  период когда
+ periodic -- периодический
+@@ -33422,7 +33420,7 @@
+ plano-concave -- плоско-вогнутый
+ plano-convex -- плоско-выпуклый
+ plant --    устанавливать завод ботан)растение
+-plant      `bulb` --  сажать см. также  ` луковица`
++plant bulb --  сажать см. также `луковица`
+ plantain -- подорожник
+ plantar -- подошвенный
+ plantation -- плантация
+@@ -33479,7 +33477,7 @@
+ plausibleness -- правдоподобие
+ plausibly -- правдоподобно
+ play --    играть игра пьеса
+-play      cd `part` --   см. также  ` роль`
++play cd part -- см. также `роль`
+ play ball --  играть в бейсбол
+ play from music --  играть по нотам
+ play safe --  избегать риска
+@@ -34133,7 +34131,7 @@
+ posit -- устанавливать
+ posited -- устанавливать поставленный см. также posit
+ position -- позиционировать позиция
+-position    `hold` --   см. также  ` занимать`
++position hold -- см. также `занимать`
+ position-independent -- переместимый
+ positional -- позиционный
+ positioner -- позиционер
+@@ -34727,7 +34725,7 @@
+ presenter -- податель
+ presentiment -- предчувствие
+ presenting -- представлять вручение представляющий см. также present
+-presenting       `with` -- вручать см. также `     `
++presenting with -- вручать
+ presently -- вскоре теперь
+ presentment -- представление
+ preservation -- сохранение
+@@ -34875,7 +34873,7 @@
+ prexy -- ректор
+ prey -- жертва добыча
+ price -- оценивать цена
+-price `at``which` --   см. также `p   за`
++price at which -- см. также `за`
+ price abatement --  снижение цен
+ price for --  оценивать    в    цена    за
+ price increase --  повышение цен
+@@ -35610,7 +35608,7 @@
+ protagonist -- протагонист
+ protean -- изменчивый
+ protect -- защищать защита
+-protect       w   ,  `from` -- защищать см. также  `    от`
++protect from -- защищать см. также `от`
+ protectable -- защищаемый
+ protected -- защищать защищенный см. также protect
+ protected tub -- защита
+@@ -35703,7 +35701,7 @@
+ proverb -- пословица
+ proverbial --    вошедший в пословицу
+ provide --    в  обеспечивать  )предоставлять
+-provide `that` --     предусматривать
++provide that -- предусматривать
+ provide at --  приводить    в
+ provide for --  предусматривать    для
+ provide in --  приводить    в
+@@ -35723,7 +35721,7 @@
+ proving -- доказывать проверка см. также prove
+ proving ground --  испытательный полигон
+ provision -- обеспечение предоставление положение
+-provision    `agreement` --  условие
++provision agreement -- условие
+ provisional -- временный
+ provisionally -- временно
+ provisioner -- поставщик
+@@ -35928,7 +35926,7 @@
+ pule -- скулить
+ puler -- нытик
+ pull -- тянуть
+-pull        `off` -- снимать
++pull off -- снимать
+ pull a bell -- звонить
+ pull down -- опускать
+ pull down menu --     меню выбора
+@@ -36156,7 +36154,7 @@
+ pussyfoot --    осторожный человек
+ pustule -- гнойничок
+ put --    помещать устанавливать
+-put    `out` -- выводить см. также  `    из`
++put out -- выводить см. также `из`
+ put a premium -- поощрять
+ put a task before --  ставить задачу    перед
+ put around -- раскладывать
+@@ -36749,7 +36747,7 @@
+ rainy -- дождливый
+ raisable -- поднимаемый
+ raise -- поднимать возводить
+-raise       `animals` -- выращивать
++raise animals -- выращивать
+ raise a question --  поднимать вопрос
+ raise an objection to --  выступать    против
+ raise difficulties --  чинить препятствия
+@@ -37253,7 +37251,7 @@
+ recalculated -- пересчитывать пересчитанный см. также recalculate
+ recalculation -- пересчет
+ recall --      восстанавливать r )учитывать возврат одуш)воспоминание
+-recall `that` --     вспоминать
++recall that -- вспоминать
+ recall an order --  отменять приказ
+ recall performance --  эффективность восстановления знаний
+ recall ratio --  полнота выборки
+@@ -38156,7 +38154,7 @@
+ reputed -- предполагаемый
+ reputedly -- по общему мнению,
+ request --   j просить инф)запрашивать просьба инф)запрос
+-request       w `for` --   см. также  `     о` см. также a
++request for -- см. также `о` см. также a
+ request for information --  информационный запрос
+ request stop --  останов по требованию
+ request-response -- запрос-ответ
+@@ -38194,7 +38192,7 @@
+ rescuer -- спаситель
+ rescuing -- спасать освобождение см. также rescue
+ research -- исследовать исследование научно-исследовательский
+-research    `on` --   см. также  `    по`
++research on` -- см. также `по`
+ research and development --    разработка  .научно-исследовательский
+ research assistance --    научная консультация
+ research effort --  научно-исследовательская работа
+@@ -38633,8 +38631,8 @@
+ riga --     рига
+ rigging -- такелаж
+ right --    b    право правый правильный вправо
+-right `hand`  --  право см. также ` сторонний`
+-right `in` --   см. также `    на`
++right hand -- право см. также `сторонний`
++right in -- см. также `на`
+ right after --    сразу после
+ right angle --  прямой угол
+ right away -- немедленно
+@@ -38992,7 +38990,7 @@
+ rout -- выгонять разгром
+ routability -- трассируемость
+ route -- направлять маршрут
+-route      w `around` --   см. также  `    в обход`
++route around -- см. также `в обход`
+ router -- трассировщик инф)маршрутизатор
+ routine -- программа обычный
+ routine duties --  служебныйnобязанность
+@@ -39121,7 +39119,7 @@
+ rumpus -- шум
+ rumpus room --  общая комната
+ run --   а  запускать л)бежать и)работать  )достигать прогон
+-run `at`    `rate` -- держаться см. также `    на`
++run at rate -- держаться см. также `на`
+ run across -- наталкиваться
+ run an experiment --  проводить опыт
+ run at a speed of --  двигаться со скоростью
+@@ -39202,7 +39200,7 @@
+ russet -- красно-бурый
+ russia --       россия российский
+ russian --          русский русскийaрусско
+-russian    `language` --     русский
++russian language -- русский
+ russian born --  рожденный в россии
+ russian cyrillics --  русский кириллица
+ russian far east --  российский дальневосточный
+@@ -40532,7 +40530,7 @@
+ seclusive -- уединенный
+ seconal -- секонал
+ second --     секунда второй во-вторых
+-second `of`     --  второй см. также `     из`
++second of -- второй см. также `из`
+ second basement --  второй подвальный этаж
+ second class airplane ticket --  авиабилет второго класса
+ second class plane ticket --  авиабилет второго класса
+@@ -40614,7 +40612,7 @@
+ secundines -- послед
+ secundus -- младший
+ secure --   в  обеспечивать  )закреплять безопасный
+-secure `to` --  защищать
++secure to -- защищать
+ secured -- обеспечивать защищенный см. также secure
+ secured loan --  кредит под залог
+ securely -- надежно
+@@ -40696,7 +40694,7 @@
+ seeing --    видеть видение поскольку см. также see
+ seeing eye dog -- собака-поводырь
+ seek -- искать поиск
+-seek       `rescission` -- добиваться
++seek rescission -- добиваться
+ seek   b  --  стремиться
+ seek a declaration --  добиваться подтверждения
+ seeker -- искатель
+@@ -40932,8 +40930,8 @@
+ seling restoration -- пломбирование
+ seling restorations -- пломбирование
+ sell -- продавать продажа
+-sell      `item` --   см. также  ` товар`
+-sell `for` --   см. также `    за`
++sell item -- см. также `товар`
++sell for -- см. также `за`
+ sell off -- распродавать
+ sell out -- распродавать
+ seller -- продавец
+@@ -41088,7 +41086,7 @@
+ senator -- сенатор
+ senatorial -- сенаторский
+ send --   db   посылать
+-send      `note` --   см. также  ` извещение`
++send note -- см. также `извещение`
+ send forth -- выпускать
+ send rate --  скорость передачи
+ send   back --  возвращать 
+@@ -41192,7 +41190,7 @@
+ separable -- разделимый
+ separably -- раздельно
+ separate -- разделять отдельный
+-separate       w `from` -- выделять см. также  `    из`
++separate from -- выделять см. также `из`
+ separated -- разделять разделенный см. также separate
+ separately -- отдельно
+ separateness -- разделенность
+@@ -41412,7 +41410,7 @@
+ session --     сеанс сеансовый
+ sessional -- сессионный
+ set --      устанавливать набор  )комплект инф)установка
+-set      w   `up` -- устанавливать см. также  ` `
++set up -- устанавливать
+ set a limit -- ограничивать
+ set an example -- eподавать пример
+ set apart -- откладывать
+@@ -41861,7 +41859,7 @@
+ shift back -- изменяться
+ shift into -- заменять
+ shifted -- перемещать см. также shift
+-shifted  d  `from` --  переходить см. также  `    от`
++shifted from -- переходить см. также `от`
+ shiftily -- изобретательно
+ shiftiness -- ловкость
+ shifting -- сдвигать смещение непостоянный см. также shift
+@@ -42129,8 +42127,8 @@
+ shotgun weddings -- nженитьба по необходимости
+ shots -- выстрел
+ should --      l быть долженlследуетbследует если бы  см. также shall
+-should  d   `like` --   см. также  ` хотеть` см. также  
+-should `look` : --  --  должен см. также ` выглядеть`
++should like -- см. также `хотеть`
++should look -- должен см. также `выглядеть`
+ should be able to --     должен быb
+ shoulder --    взваливать на плечи  плечо
+ shoulder blade -- лопатка
+@@ -42152,7 +42150,7 @@
+ shovelling -- сгребать перелопачивание см. также shovel
+ shovelsful --    полнаяnлопата
+ show --   d   показывать показ
+-show      `item` --   см. также  ` товар`
++show item -- см. также `товар`
+ show a preference --  отдавать предпочтение
+ show forth -- излагать
+ show off -- красоваться
+@@ -42261,7 +42259,7 @@
+ shurker --    шелушильный машина
+ shush --    заставлять замолчать
+ shut -- закрывать
+-shut `out` ,  --  --  отказываться см. также   см. также 
++shut out -- отказываться
+ shut down -- отключать
+ shut up -- затыкать
+ shut-down -- остановка
+@@ -42619,7 +42617,7 @@
+ sinai --       синай
+ sinatra --     синатра
+ since --      с поскольку  )с тех пор как с тех пор
+-since    `print` --  с тех пор как см. также  см. также  
++since print -- с тех пор как
+ since in the case -- поскольку в случае
+ since the --  с тех пор как 
+ since then -- с тех пор
+@@ -43326,8 +43324,7 @@
+ slovenian -- словенец словенский
+ slovenliness -- неряшество
+ slovenly -- неряшливый
+-slow --  -t   замедлять медленный
+-slow      w   `down` --  замедлять см. также    см. также 
++slow -- замедлять медленный
+ slow down -- замедлять
+ slow motion --  замедленная съемка
+ slow speed -- низкоскоростной
+@@ -44734,7 +44731,7 @@
+ speechlessly -- бессловесно
+ speechlessness -- бессловесность
+ speed -- ускорять скорость скоростной
+-speed      w `up` --  ускорять см. также    см. также 
++speed up -- ускорять
+ speed limit --  ограничение скорости
+ speed measurement --  измерение скорости
+ speed range --  диапазон скоростей
+@@ -44782,7 +44779,7 @@
+ spelunker -- спелеолог
+ spelunking --    исследование пещер
+ spend -- тратить
+-spend       `holiday` --  проводить
++spend holiday -- проводить
+ spend breath --  попусту тратить слова
+ spend money --  тратить деньги
+ spend much trouble --     тратить много усилий
+@@ -44932,8 +44929,8 @@
+ spire -- шпиль
+ spirea -- спирея
+ spirit -- дух
+-spirit    `quick` --  ум см. также  `  -  живой`
+-spirit    `strong` --   см. также  ` сильный`
++spirit quick -- ум см. также `живой`
++spirit strong --  см. также `сильный`
+ spirit away -- умчать
+ spirit lamp -- спиртовка
+ spirit level -- ватерпас
+@@ -45619,8 +45616,8 @@
+ starshower --    метеоритный дождь
+ starstruck -- изумленный
+ start --  gb запускать г)б)начинать начало стартовый
+-start    `discussion` --  начинать
+-start      `distance` --  начинать см. также  `    с расстояния`
++start discussion -- начинать
++start distance -- начинать см. также `с расстояния`
+ start a --  начинать    с
+ start a subject --  поднимать вопрос
+ start from --  начинать    с
+@@ -45656,9 +45653,9 @@
+ stashed -- припрятывать припрятанный см. также stash
+ stashing -- припрятывать накопление см. также stash
+ stasis -- стаз
+-stat -- =стат
++stat -- стат
+ state --    w указывать состояние штт) ) w штат государственный
+-state    _  -- штат
++state -- штат
+ state college --  колледж штата
+ state department --  государственный департамент
+ state lottery --  лотерея штата
+@@ -46269,8 +46266,8 @@
+ stooped -- наклонять сутулый см. также stoop
+ stoopingly -- сутуло
+ stop --  gb останавливать г)переставать б)переставать и)прекращаться остановка стоповый
+-stop `by`      --  --  заходить см. также   см. также 
+-stop `payment` --  прекращать
++stop by -- заходить
++stop payment -- прекращать
+ stop and start translation code --  код прерывания и продолжения перевода
+ stop away -- останавливаться
+ stop on -- оставаться
+@@ -46525,7 +46522,7 @@
+ striding -- шагать шаг см. также stride
+ strife -- распря
+ strike -- нажимать забастовка
+-strike     `surface` --     падать    на
++strike surface -- падать на
+ strike a bargain --  приходить к соглашению
+ strike a blow --  наносить удар
+ strike a wage --  добиваться зарплаты
+@@ -46616,7 +46613,7 @@
+ strongbox --    несгораемый ящик
+ stronghold -- оплот
+ strongly -- сильно
+-strongly `recommend` -- настоятельно
++strongly recommend -- настоятельно
+ strongman -- силач
+ strongmen -- силач
+ strongpoint --    опорный пункт
+@@ -46882,8 +46879,7 @@
+ subdiv -- подразд субдив
+ subdividable -- делимый
+ subdivide -- подразделять
+-subdivide      w  `into` --   см. также  `    на`
+-subdivide     `into` --   см. также .`    на`
++subdivide into --  см. также `на`
+ subdivide into --  подразделять    на
+ subdivided -- подразделять разделенный см. также subdivide
+ subdivider -- подразделитель
+@@ -47851,7 +47847,7 @@
+ suspiciousness -- подозрительность
+ suss --    подозревать
+ sustain -- нести понести поддерживать
+-sustain    `loss` --  нести понести
++sustain loss -- нести понести
+ sustainable -- стабильный выносимый
+ sustained -- поддерживать устойчивый см. также sustain
+ sustaining -- поддерживать поддерживающий см. также sustain
+@@ -48339,17 +48335,17 @@
+ taiwan --       тайвань
+ taiwanese -- тайванец
+ take --    а      брать и)требоваться  )требовать  )передавать p )принимать p )выбирать
+-take     d  `measure` -- принимать см. также  ` мера`
+-take      `drugs` --  принимать
+-take      `exam` --  сдавать сдача
+-take      `examination` --  сдавать сдача
+-take      `medicine` --  принимать
+-take      `photograph` --  делать
+-take      `temperature` --  измерять
+-take      `trip` --  совершать
+-take       `step` --  предпринимать
+-take    d      `month` --     требовать
+-take    d      `week` --     требовать
++take measure -- принимать см. также `мера`
++take drugs -- принимать
++take exam -- сдавать сдача
++take examination -- сдавать сдача
++take medicine -- принимать
++take photograph -- делать
++take temperature -- измерять
++take trip -- совершать
++take step -- предпринимать
++take month -- требовать
++take week -- требовать
+ take   --  отправлять
+ take a look at --  взглянуть    на
+ take a nap -- поспать
+@@ -49112,7 +49108,7 @@
+ termite shield --  противотермитный барьер
+ termless -- безграничный
+ terms -- условие срок термин см. также term
+-terms  ,  `words` -- термин
++terms words -- термин
+ terms and conditions -- nсрок иnусловие
+ terms of contract -- n    условие контракта
+ terms of delivery -- nусловие поставки
+@@ -49174,7 +49170,7 @@
+ tertiary -- третичный
+ tessellate --    складывать мозаику
+ test -- тестировать тест
+-test      w  `against` -- тестировать см. также  `    на`
++test against -- тестировать см. также `на`
+ test by experience --  опытная проверка
+ test certificate --  свидетельство об испытании
+ test condition -- условие
+@@ -49265,7 +49261,7 @@
+ thames river --  река темза
+ than --    чем
+ thank -- благодарить
+-thank  d      w `for` --   см. также  `    за`
++thank for -- см. также `за`
+ thank god -- слава богу
+ thank you --     благодарить вас
+ thank you in advance --  заранее    благодарить
+@@ -49291,7 +49287,7 @@
+ thatch --    крыть соломой  солома
+ thaw -- таять оттепель
+ the --  f . чемjтем
+-the `next`  --  --   см. также  
++the next -- см. также  
+ the assured --   застрахованный
+ the best that -- лучшее, что
+ the elder of --  старший    из
+@@ -49421,7 +49417,7 @@
+ there should be no need --  b нет необходимости
+ there was --  t   бытьf  t  не было
+ there were --  t    бытьf  t  не было
+-there x --   см. также `x t   быть`
++there x --   см. также `быть`
+ thereabout -- поблизости
+ thereabouts -- поблизости
+ thereafter -- согласно этому с тех пор
+@@ -49511,7 +49507,7 @@
+ thing -- вещь
+ thing is -- дело в том, что
+ think --    думать
+-think `of`  -- думать см. также `    о`
++think of -- думать см. также `о`
+ think of -- обдумывать
+ think of as --    считать
+ think over -- обсуждать
+@@ -49547,8 +49543,8 @@
+ thirtieth -- тридцатый
+ thirty --    тридцать тридцати
+ this --    это этот
+-this `all`       --      все они см. также   см. также 
+-this `way`  --  --  таким образом см. также   см. также 
++this all -- все они
++this way -- таким образом
+ this fall -- этой осенью
+ this is because -- дело в том, что
+ this is far from being the case -- это далеко не так
+@@ -50041,8 +50037,8 @@
+ tizzies -- волнение
+ tizzy -- волнение
+ to --   а , чтобы для того, чтобы  b    на п)   доp   на как , который долженs, чтоb.
+-to     ` ` -- на
+-to ` ` -- до
++to -- на
++to -- до
+ to a certain degree -- до некоторой степени
+ to a certain extent -- в известной мере
+ to a large extent -- в большой степени
+@@ -50112,7 +50108,7 @@
+ to which --     на который
+ to which of --     в который    из
+ to whom -- кого(кому)
+-to    `account` --     за см. также  см. также t
++to account --     за
+ to-day's -- сегодняшний
+ to from --    на с
+ toad -- жаба
+@@ -50421,7 +50417,7 @@
+ tossup -- жеребьевка
+ tot -- суммировать малыш
+ total --    составлять итог общий
+-total `of`     --  в общей сложности см. также   см. также 
++total of -- в общей сложности
+ total assets --  общая стоимость имущества
+ total document --  весь документ
+ total number --  общее число
+@@ -50544,7 +50540,7 @@
+ toy problem --  модельная задача
+ toyota --    тойота
+ trace -- прослеживать след трассировка чуть-чуть
+-trace      w `into` --  трассировать
++trace into -- трассировать
+ trace analysis --  анализ кривых
+ trace down -- анализировать
+ traceability -- трассируемость
+@@ -50965,7 +50961,7 @@
+ treasurer -- казначей казначейский
+ treasury -- казначейство
+ treat --    обращаться    с  обрабатывать мед)лечить относиться удовольствие
+-treat       w  ,   `as` --  рассматривать см. также  `p   как`
++treat as -- рассматривать см. также `p как`
+ treat as a joke --  рассматривать как шутку
+ treat data --  обрабатывать данные
+ treat   matter --  относиться    к  вопрос
+@@ -51188,7 +51184,7 @@
+ triturated --    растирать в порошок  .  растертый в порошок  см. также triturate
+ triturator --    аппарпт для растирания
+ triumph -- торжествовать триумф
+-triumph `over` --   см. также `    над`
++triumph over -- см. также `над`
+ triumphal -- триумфальный
+ triumphant -- победоносный
+ triumphantly -- победоносно
+@@ -51349,8 +51345,8 @@
+ truthfully -- правдиво
+ truthfulness -- правдивость
+ try --  gtb пытаться г)пробовать попытка
+-try      `example` -- использовать
+-try           см. также " см. также '  -- пробовать
++try example -- использовать
++try -- пробовать
+ try back --  начинать сначала
+ try for --  стремиться    к
+ try on -- примерять
+@@ -51516,9 +51512,9 @@
+ turmeric -- куркума
+ turmoil -- беспорядок
+ turn -- поворачивать поворот оборот
+-turn        `off` -- выключать см. также    см. также 
+-turn        `on` -- включать см. также    см. также 
+-turn   ,  --  -- становиться
++turn off -- выключать
++turn on -- включать
++turn -- становиться
+ turn a deaf ear to --  пропускать мимо ушей
+ turn around --    a оборачиваться обратный
+ turn aside -- отклоняться
+@@ -51624,7 +51620,7 @@
+ twenty-one -- двадцать один
+ twerp -- хам
+ twice -- дважды
+-twice `as``many`  --  двойное см. также ` количество``    `
++twice as many -- двойное см. также `количество`
+ twice as good -- вдвое лучше
+ twice as large -- в два раза больше
+ twice as little -- вдвое меньше
+@@ -51723,7 +51719,7 @@
+ tympanic -- тимпанный
+ tympanum --    барабанная полость
+ type --    набирать тип
+-type       `in` --  заносить см. также    см. также 
++type in -- заносить
+ type computer --  тип компьютера
+ type computers -- nтип компьютеров
+ type in -- заносить .  тип    в
+@@ -52281,9 +52277,9 @@
+ undent --    смещение влево
+ undependable -- ненадежный
+ under --      под  )   по
+-under      `agreement` --     по
+-under      `circumstances` --     при
+-under      `conditions` --     при
++under agreement -- по
++under circumstances -- при
++under conditions -- при
+ under both --    под
+ under consideration -- изучаемый
+ under development -- разрабатываемый
+@@ -53231,8 +53231,6 @@
+ untie -- развязывать
+ untied -- развязывать развязанный см. также untie
+ until --      до     пока
+-until  d    мес  --     до
+-until   h  --     до
+ until recently -- до недавних пор
+ until the time at which --     до тех пор, пока
+ until then -- до сих пор
+@@ -53308,7 +53304,7 @@
+ unyoke --    снимать ярмо
+ unzip -- расстегивать
+ up --    по вверх
+-up `from`  h  --  выше см. также   см. также 
++up from -- выше
+ up against it -- туго
+ up and about -- на ногах
+ up and down -- вверх и вниз
+@@ -53358,8 +53354,8 @@
+ uploading -- загружать загрузка см. также upload
+ upmarket --    рост рынка
+ upon --    б   на  )о  )   с
+-upon     `expiration` --     по
+-upon     `termination` --     по
++upon expiration -- по
++upon termination -- по
+ upon completion --    по завершении
+ upon default of --    при невыполнении
+ upon payment --    при оплате
+@@ -54549,9 +54545,9 @@
+ wasting -- тратить трата см. также waste
+ wastrel -- транжир
+ watch --  oa   наблюдать следить часы дозор
+-watch      `news` --  смотреть
+-watch      `programm` --  смотреть
+-watch      `tv` --  смотреть
++watch news -- смотреть
++watch programm -- смотреть
++watch tv -- смотреть
+ watch chain --  цепочка для часов
+ watch for -- ожидать
+ watch over -- охранять
+@@ -55685,7 +55681,7 @@
+ wont --    иметь привычку
+ woo -- добиваться
+ wood -- дерево (лес) древесный
+-wood `industry` --  лесной
++wood industry -- лесной
+ wood alcohol --  древесный спирт
+ wood block -- лубок
+ wood duck --  каролинская утка
+@@ -55739,7 +55735,7 @@
+ wooziness -- головокружение
+ woozy -- одурелый
+ word --    д     слово  )известие текстовый
+-word    `letters` --   см. также  ` буква`
++word letters -- см. также `буква`
+ word by word --    пословно пословный
+ word for word --    пословно пословный
+ word for word translator --  пословный перевод
+@@ -55964,7 +55960,7 @@
+ wristwatch -- часы
+ writ --    исполнительный лист
+ write --  d  -g  писать инф)записывать запись
+-write      `letter` --   см. также  `письмо`
++write letter -- см. также `письмо`
+ write down -- регистрировать
+ write in --  записывать    в
+ write off -- списывать

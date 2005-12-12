@@ -14,8 +14,8 @@ URL:		http://webua.net/zavolzhsky/english/programs.html
 Patch0:		%{dictname}-enru.patch
 BuildRequires:	dictfmt
 BuildRequires:	dictzip
-Requires:	dictd
 Requires:	%{_sysconfdir}/dictd
+Requires:	dictd
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
@@ -47,8 +47,8 @@ Russian-English dictionary for dictd encoded in koi8-r. Start server
 with --locale ru_RU.KOI8-R option in order to use it.
 
 %description ruen -l pl
-S³ownik rosyjsko-angielski dla dictd kodowany w koi8-r. Uruchom
-serwer z opcj± --locale ru_RU.KOI8-R, ¿eby móc go u¿ywaæ.
+S³ownik rosyjsko-angielski dla dictd kodowany w koi8-r. Uruchom serwer
+z opcj± --locale ru_RU.KOI8-R, ¿eby móc go u¿ywaæ.
 
 %prep
 %setup -q -c -a1
@@ -111,12 +111,12 @@ fi
 %defattr(644,root,root,755)
 %doc usr/share/apps/ksocrat/*_ENG.txt
 %lang(ru) %doc usr/share/apps/ksocrat/*_RUS.txt
-%attr(640,root,root) %config(noreplace) %verify(not size mtime md5) %{_sysconfdir}/dictd/%{dictname}-enru.dictconf
+%attr(640,root,root) %config(noreplace) %verify(not md5 mtime size) %{_sysconfdir}/dictd/%{dictname}-enru.dictconf
 %{_datadir}/dictd/%{dictname}-enru.*
 
 %files ruen
 %defattr(644,root,root,755)
 %doc usr/share/apps/ksocrat/*_ENG.txt
 %lang(ru) %doc usr/share/apps/ksocrat/*_RUS.txt
-%attr(640,root,root) %config(noreplace) %verify(not size mtime md5) %{_sysconfdir}/dictd/%{dictname}-ruen.dictconf
+%attr(640,root,root) %config(noreplace) %verify(not md5 mtime size) %{_sysconfdir}/dictd/%{dictname}-ruen.dictconf
 %{_datadir}/dictd/%{dictname}-ruen.*

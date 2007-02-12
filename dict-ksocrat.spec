@@ -1,6 +1,6 @@
 %define		dictname ksocrat
 Summary:	English<->Russian dictionary for dictd
-Summary(pl.UTF-8):   Słownik angielsko<->rosyjski dla dictd
+Summary(pl.UTF-8):	Słownik angielsko<->rosyjski dla dictd
 Name:		dict-%{dictname}
 Version:	1.0.1
 Release:	1
@@ -28,7 +28,7 @@ serwer z opcją --locale ru_RU.KOI8-R, żeby móc go używać.
 
 %package enru
 Summary:	English-Russian dictionary for dictd
-Summary(pl.UTF-8):   Słownik angielsko-rosyjski dla dictd
+Summary(pl.UTF-8):	Słownik angielsko-rosyjski dla dictd
 Group:		Applications/Dictionaries
 
 %description enru
@@ -39,7 +39,7 @@ Słownik angielsko-rosyjski dla dictd kodowany w koi8-r.
 
 %package ruen
 Summary:	Russian-English dictionary for dictd
-Summary(pl.UTF-8):   Słownik rosyjsko-angielski dla dictd
+Summary(pl.UTF-8):	Słownik rosyjsko-angielski dla dictd
 Group:		Applications/Dictionaries
 
 %description ruen

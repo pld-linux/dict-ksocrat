@@ -1,6 +1,6 @@
 %define		dictname ksocrat
 Summary:	English<->Russian dictionary for dictd
-Summary(pl):	S³ownik angielsko<->rosyjski dla dictd
+Summary(pl.UTF-8):   SÅ‚ownik angielsko<->rosyjski dla dictd
 Name:		dict-%{dictname}
 Version:	1.0.1
 Release:	1
@@ -22,33 +22,33 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 English<->Russian dictionary for dictd encoded in koi8-r. Start server
 with --locale ru_RU.KOI8-R option in order to use it.
 
-%description -l pl
-S³ownik angielsko<->rosyjski dla dictd kodowany w koi8-r. Uruchom
-serwer z opcj± --locale ru_RU.KOI8-R, ¿eby móc go u¿ywaæ.
+%description -l pl.UTF-8
+SÅ‚ownik angielsko<->rosyjski dla dictd kodowany w koi8-r. Uruchom
+serwer z opcjÄ… --locale ru_RU.KOI8-R, Å¼eby mÃ³c go uÅ¼ywaÄ‡.
 
 %package enru
 Summary:	English-Russian dictionary for dictd
-Summary(pl):	S³ownik angielsko-rosyjski dla dictd
+Summary(pl.UTF-8):   SÅ‚ownik angielsko-rosyjski dla dictd
 Group:		Applications/Dictionaries
 
 %description enru
 English-Russian dictionary for dictd encoded in koi8-r.
 
-%description enru -l pl
-S³ownik angielsko-rosyjski dla dictd kodowany w koi8-r.
+%description enru -l pl.UTF-8
+SÅ‚ownik angielsko-rosyjski dla dictd kodowany w koi8-r.
 
 %package ruen
 Summary:	Russian-English dictionary for dictd
-Summary(pl):	S³ownik rosyjsko-angielski dla dictd
+Summary(pl.UTF-8):   SÅ‚ownik rosyjsko-angielski dla dictd
 Group:		Applications/Dictionaries
 
 %description ruen
 Russian-English dictionary for dictd encoded in koi8-r. Start server
 with --locale ru_RU.KOI8-R option in order to use it.
 
-%description ruen -l pl
-S³ownik rosyjsko-angielski dla dictd kodowany w koi8-r. Uruchom serwer
-z opcj± --locale ru_RU.KOI8-R, ¿eby móc go u¿ywaæ.
+%description ruen -l pl.UTF-8
+SÅ‚ownik rosyjsko-angielski dla dictd kodowany w koi8-r. Uruchom serwer
+z opcjÄ… --locale ru_RU.KOI8-R, Å¼eby mÃ³c go uÅ¼ywaÄ‡.
 
 %prep
 %setup -q -c -a1

@@ -3,7 +3,7 @@ Summary:	English<->Russian dictionary for dictd
 Summary(pl.UTF-8):	Słownik angielsko<->rosyjski dla dictd
 Name:		dict-%{dictname}
 Version:	1.0.1
-Release:	1
+Release:	2
 License:	for use with KSocrat only
 Group:		Applications/Dictionaries
 Source0:	http://webua.net/zavolzhsky/download/%{dictname}-enru-dic-%{version}.tar.bz2
@@ -14,6 +14,7 @@ URL:		http://webua.net/zavolzhsky/english/programs.html
 Patch0:		%{dictname}-enru.patch
 BuildRequires:	dictfmt
 BuildRequires:	dictzip
+BuildRequires:	rpmbuild(macros) >= 1.268
 Requires:	%{_sysconfdir}/dictd
 Requires:	dictd
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
@@ -88,23 +89,19 @@ mv %{dictname}* $RPM_BUILD_ROOT%{_datadir}/dictd
 rm -rf $RPM_BUILD_ROOT
 
 %post enru
-if [ -f /var/lock/subsys/dictd ]; then
-	/etc/rc.d/init.d/dictd restart 1>&2
-fi
+%service -q dictd restart
 
 %postun enru
-if [ -f /var/lock/subsys/dictd ]; then
-	/etc/rc.d/init.d/dictd restart 1>&2 || true
+if [ "$1" = 0 ]; then
+	%service -q dictd restart
 fi
 
 %post ruen
-if [ -f /var/lock/subsys/dictd ]; then
-	/etc/rc.d/init.d/dictd restart 1>&2
-fi
+%service -q dictd restart
 
 %postun ruen
-if [ -f /var/lock/subsys/dictd ]; then
-	/etc/rc.d/init.d/dictd restart 1>&2 || true
+if [ "$1" = 0 ]; then
+	%service -q dictd restart
 fi
 
 %files enru
